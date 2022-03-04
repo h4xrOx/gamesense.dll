@@ -2,6 +2,9 @@ https://h4xr0x.cc #https://discord.gg/2wtnBmKCKh - "Get Good or hack GameSense" 
 The following exploit is true an can be reproduced. to re-build the entire gamesense project
 ----------------------------------------------------------------------------------------------------------------------
 
+https://gamesense-pub.azurewebsites.net/
+
+----------------------------------------------------------------------------------------------------------------------
 
 //What is Data Source Name (DSN)?++
 ------------------------------------
@@ -54,8 +57,8 @@ The resulting POST request for a plain JSON payload would then transmit to https
 
 
 
-
-
+https://gamesense-pub.azurewebsites.net/
+![image](https://user-images.githubusercontent.com/65768277/156751389-f7e75a9f-ed2b-4ca6-8e8f-9e426136d0f7.png)
 
 ![image](https://user-images.githubusercontent.com/65768277/156722473-adb33e25-f793-4fd6-8914-b3362fc497be.png)
 
